@@ -33,7 +33,7 @@ This repository contains five unique web templates built with **ReactJS** and **
 
 ---
 
-### [Project 4: RealState Template](https://e-shop-phi-cyan.vercel.app)
+### [Project 4: RealState Template](https://real-state-gray-two.vercel.app/)
 - **Description:** A professional template designed for real estate businesses.
 - **Features:**
   - Property listings with grid layout.
@@ -42,7 +42,7 @@ This repository contains five unique web templates built with **ReactJS** and **
 
 ---
 
-### [Project 5: Eshop](https://eshop-modern.vercel.app)
+### [Project 5: Eshop](https://e-shop-phi-cyan.vercel.app/)
 - **Description:** An advanced e-commerce landing page with dark/light mode toggle and smooth animations.
 - **Features:**
   - Light and dark mode support.
